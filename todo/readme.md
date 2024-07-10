@@ -1,5 +1,6 @@
-# This is a to do app done using html,css and Javascript
 
-## To do items are saved in localStorage and deleted once you click delete button
+# This project is made up of html css and javascript
 
-## [project link](https://fancy-medovik-bfa558.netlify.app/)
+## what is done is the name localStorage
+
+##[project link](https://sparkling-chebakia-a6fd5d.netlify.app/)
