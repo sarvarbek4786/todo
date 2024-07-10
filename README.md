@@ -2,4 +2,4 @@
 
 ## completed project nom todo
 
-##[projekt link](https://fancy-medovik-bfa558.netlify.app/)
+## [projekt link](https://fancy-medovik-bfa558.netlify.app/)
